@@ -4,5 +4,5 @@ Welcome to the official repository for my personal portfolio website. Built as p
 
 ## Live Demo & Repo Links
 
-- Live Website URL: https://kaiwong-rutgers.github.io/kai-wong-portfolio/
-- GitHub Repository: https://github.com/kaiwong-rutgers/kai-wong-portfolio
+- Live Website URL: https://kaithewong.github.io/kai-wong-portfolio/
+- GitHub Repository: https://github.com/Kaithewong/kai-wong-portfolio
